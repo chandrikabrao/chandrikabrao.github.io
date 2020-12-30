@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistical Genetics | Chandrika B-Rao</title>
+    <link>https://chandrikabrao.github.io/tag/statistical-genetics/</link>
+      <atom:link href="https://chandrikabrao.github.io/tag/statistical-genetics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistical Genetics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Chandrika B-Rao</copyright><lastBuildDate>Tue, 01 Jun 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chandrikabrao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Statistical Genetics</title>
+      <link>https://chandrikabrao.github.io/tag/statistical-genetics/</link>
+    </image>
+    
+    <item>
+      <title>Bhattacharyya&#39;s distance measure as a precursor of genetic distance measures</title>
+      <link>https://chandrikabrao.github.io/publication/bhattacharyyas-distance-measure-as-a-precursor-of-genetic-distance-measures/</link>
+      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/bhattacharyyas-distance-measure-as-a-precursor-of-genetic-distance-measures/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

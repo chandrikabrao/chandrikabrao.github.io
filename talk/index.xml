@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks | Chandrika B-Rao</title>
+    <title>Talks and Presentations | Chandrika B-Rao</title>
     <link>https://chandrikabrao.github.io/talk/</link>
       <atom:link href="https://chandrikabrao.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Talks</description>
+    <description>Talks and Presentations</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Chandrika B-Rao</copyright>
     <image>
       <url>https://chandrikabrao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Talks</title>
+      <title>Talks and Presentations</title>
       <link>https://chandrikabrao.github.io/talk/</link>
     </image>
     
@@ -17,6 +17,246 @@
       <link>https://chandrikabrao.github.io/talk/an-application-of-computer-aided-drug-design-for-xanthine-oxidase-inhibition/</link>
       <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://chandrikabrao.github.io/talk/an-application-of-computer-aided-drug-design-for-xanthine-oxidase-inhibition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing genotoxicity using QSAR</title>
+      <link>https://chandrikabrao.github.io/talk/assessing-genotoxicity-using-qsar/</link>
+      <pubDate>Thu, 10 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/assessing-genotoxicity-using-qsar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICH M7 and its implemenation</title>
+      <link>https://chandrikabrao.github.io/talk/ich-m7-and-its-implemenation/</link>
+      <pubDate>Thu, 10 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/ich-m7-and-its-implemenation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating mutagenic potential of chemicals using QSAR models</title>
+      <link>https://chandrikabrao.github.io/talk/evaluating-mutagenic-potential-of-chemicals-using-qsar-models/</link>
+      <pubDate>Thu, 27 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/evaluating-mutagenic-potential-of-chemicals-using-qsar-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICHM7 guidance and in silico assessment of genotoxicity</title>
+      <link>https://chandrikabrao.github.io/talk/ichm7-guidance-and-in-silico-assessment-of-genotoxicity/</link>
+      <pubDate>Thu, 27 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/ichm7-guidance-and-in-silico-assessment-of-genotoxicity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioinformatics in pharma R &amp; D</title>
+      <link>https://chandrikabrao.github.io/talk/bioinformatics-in-pharma-r-d/</link>
+      <pubDate>Thu, 30 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/bioinformatics-in-pharma-r-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery of xanthine oxidase inhibitors by integrated computational, medicinal and synthetic chemistry methods</title>
+      <link>https://chandrikabrao.github.io/talk/discovery-of-xanthine-oxidase-inhibitors-by-integrated-computational-medicinal-and-synthetic-chemistry-methods/</link>
+      <pubDate>Fri, 10 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/discovery-of-xanthine-oxidase-inhibitors-by-integrated-computational-medicinal-and-synthetic-chemistry-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development, refinement and validation of 2D QSAR models for CYP 3A4 inhibition</title>
+      <link>https://chandrikabrao.github.io/talk/development-refinement-and-validation-of-2d-qsar-models-for-cyp-3a4-inhibition/</link>
+      <pubDate>Tue, 12 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/development-refinement-and-validation-of-2d-qsar-models-for-cyp-3a4-inhibition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Drug Design: A Case Study on Xanthine Oxidase Inhibition</title>
+      <link>https://chandrikabrao.github.io/talk/computational-drug-design-a-case-study-on-xanthine-oxidase-inhibition/</link>
+      <pubDate>Mon, 16 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/computational-drug-design-a-case-study-on-xanthine-oxidase-inhibition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In silico evaluation of genotoxic impurities</title>
+      <link>https://chandrikabrao.github.io/talk/in-silico-evaluation-of-genotoxic-impurities/</link>
+      <pubDate>Mon, 04 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/in-silico-evaluation-of-genotoxic-impurities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematics in Drug Discovery : An Introduction</title>
+      <link>https://chandrikabrao.github.io/talk/mathematics-in-drug-discovery-an-introduction/</link>
+      <pubDate>Mon, 23 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/mathematics-in-drug-discovery-an-introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of in silico Methods in Drug Discovery</title>
+      <link>https://chandrikabrao.github.io/talk/role-of-in-silico-methods-in-drug-discovery/</link>
+      <pubDate>Fri, 04 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/role-of-in-silico-methods-in-drug-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variability in 3D Structure of Protein: A Case Study with Hen Egg White Lysozyme</title>
+      <link>https://chandrikabrao.github.io/talk/variability-in-3d-structure-of-protein-a-case-study-with-hen-egg-white-lysozyme/</link>
+      <pubDate>Mon, 04 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/variability-in-3d-structure-of-protein-a-case-study-with-hen-egg-white-lysozyme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of Virtual Screening and Molecular Dynamics Simulations to Drug Discovery: A case study</title>
+      <link>https://chandrikabrao.github.io/talk/application-of-virtual-screening-and-molecular-dynamics-simulations-to-drug-discovery-a-case-study/</link>
+      <pubDate>Tue, 14 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/application-of-virtual-screening-and-molecular-dynamics-simulations-to-drug-discovery-a-case-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inverse analysis of idiotypic network interactions</title>
+      <link>https://chandrikabrao.github.io/talk/inverse-analysis-of-idiotypic-network-interactions/</link>
+      <pubDate>Wed, 15 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/inverse-analysis-of-idiotypic-network-interactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cluster Analysis</title>
+      <link>https://chandrikabrao.github.io/talk/cluster-analysis/</link>
+      <pubDate>Tue, 06 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/cluster-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handling protein flexibility in structure-based drug design</title>
+      <link>https://chandrikabrao.github.io/talk/handling-protein-flexibility-in-structure-based-drug-design/</link>
+      <pubDate>Wed, 21 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/handling-protein-flexibility-in-structure-based-drug-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ligand-induced protein flexibility</title>
+      <link>https://chandrikabrao.github.io/talk/ligand-induced-protein-flexibility/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/ligand-induced-protein-flexibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Multivariate Statistical Analysis</title>
+      <link>https://chandrikabrao.github.io/talk/practical-multivariate-statistical-analysis/</link>
+      <pubDate>Mon, 14 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/practical-multivariate-statistical-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Ligand-Induced Conformational Changes in Proteins for Structure-Based Drug Design</title>
+      <link>https://chandrikabrao.github.io/talk/predicting-ligand-induced-conformational-changes-in-proteins-for-structure-based-drug-design/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/predicting-ligand-induced-conformational-changes-in-proteins-for-structure-based-drug-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting ligand-induced conformational changes in proteins</title>
+      <link>https://chandrikabrao.github.io/talk/predicting-ligand-induced-conformational-changes-in-proteins/</link>
+      <pubDate>Fri, 09 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/predicting-ligand-induced-conformational-changes-in-proteins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Statistical Measure of Drug-Likeness</title>
+      <link>https://chandrikabrao.github.io/talk/a-statistical-measure-of-drug-likeness/</link>
+      <pubDate>Sun, 21 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/a-statistical-measure-of-drug-likeness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biochemical network analysis</title>
+      <link>https://chandrikabrao.github.io/talk/biochemical-network-analysis/</link>
+      <pubDate>Sat, 18 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/biochemical-network-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inverse analysis of biological networks</title>
+      <link>https://chandrikabrao.github.io/talk/inverse-analysis-of-biological-networks/</link>
+      <pubDate>Wed, 09 Jul 2003 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/inverse-analysis-of-biological-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case-control design for genetic studies</title>
+      <link>https://chandrikabrao.github.io/talk/case-control-design-for-genetic-studies/</link>
+      <pubDate>Mon, 17 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/case-control-design-for-genetic-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample size considerations in genetic polymorphism studies</title>
+      <link>https://chandrikabrao.github.io/talk/sample-size-considerations-in-genetic-polymorphism-studies/</link>
+      <pubDate>Sat, 30 Dec 2000 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/sample-size-considerations-in-genetic-polymorphism-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample size for genetic polymorphism studies</title>
+      <link>https://chandrikabrao.github.io/talk/sample-size-for-genetic-polymorphism-studies/</link>
+      <pubDate>Wed, 23 Feb 2000 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/sample-size-for-genetic-polymorphism-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogenetic analysis</title>
+      <link>https://chandrikabrao.github.io/talk/phylogenetic-analysis/</link>
+      <pubDate>Tue, 01 Feb 2000 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/phylogenetic-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Map-like representation of DNA fingerprinting data</title>
+      <link>https://chandrikabrao.github.io/talk/map-like-representation-of-dna-fingerprinting-data/</link>
+      <pubDate>Tue, 13 Dec 1994 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/map-like-representation-of-dna-fingerprinting-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B Cell repertoire size in a self-assertive immune system</title>
+      <link>https://chandrikabrao.github.io/talk/b-cell-repertoire-size-in-a-self-assertive-immune-system/</link>
+      <pubDate>Wed, 14 Apr 1993 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/b-cell-repertoire-size-in-a-self-assertive-immune-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic aspects of immune system: Antigen-antibody binding distributions</title>
+      <link>https://chandrikabrao.github.io/talk/stochastic-aspects-of-immune-system-antigen-antibody-binding-distributions/</link>
+      <pubDate>Tue, 10 Nov 1987 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/stochastic-aspects-of-immune-system-antigen-antibody-binding-distributions/</guid>
       <description></description>
     </item>
     

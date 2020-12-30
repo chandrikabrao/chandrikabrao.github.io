@@ -8,7 +8,7 @@
   
   
   
-  <meta name="generator" content="Wowchemy 5.0.0-beta.0 for Hugo">
+  <meta name="generator" content="Wowchemy 5.0.0-beta.1 for Hugo">
   
 
   
@@ -312,13 +312,9 @@
   
   
   
-    <script>window.wcDarkLightEnabled = true;</script>
   
   
-    <script>const isSiteThemeDark = false;</script>
-  
-  
-  <script src="/js/load-theme.js"></script>
+  <script src="/js/wowchemy-init.js"></script>
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -401,8 +397,6 @@
         
         
         
-          
-        
 
         
 
@@ -413,21 +407,43 @@
 
         
           
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
           
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#about"><span>Home</span></a>
+          <a class="nav-link " href="/"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Publications</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/publications#publications"><span>Publications</span></a>
+            
+              <a class="dropdown-item" href="/publications#patents"><span>Patents</span></a>
+            
+          </div>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Talks</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/talks/#invited"><span>Invited Talks</span></a>
+            
+              <a class="dropdown-item" href="/talks/#presentations"><span>Presentations</span></a>
+            
+          </div>
         </li>
 
         
@@ -454,17 +470,10 @@
             
           
           
-            
-            
-            
-              
-            
-            
-          
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          <a class="nav-link " href="/experience"><span>Experience</span></a>
         </li>
 
         
@@ -491,17 +500,10 @@
             
           
           
-            
-            
-            
-              
-            
-            
-          
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+          <a class="nav-link " href="/awards"><span>Awards</span></a>
         </li>
 
         
@@ -528,91 +530,10 @@
             
           
           
-            
-            
-            
-              
-            
-            
-          
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#experience"><span>Experience</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#awards"><span>Awards</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          <a class="nav-link " href="/contact"><span>Contact</span></a>
         </li>
 
         
@@ -635,7 +556,7 @@
       
       
       <li class="nav-item dropdown theme-dropdown">
-        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
           <i class="fas fa-moon" aria-hidden="true"></i>
         </a>
         <div class="dropdown-menu">
@@ -721,7 +642,7 @@
           
         
         <li>
-          <a href="/#contact" >
+          <a href="/contact"  aria-label="envelope">
             <i class="fas fa-envelope big-icon"></i>
           </a>
         </li>
@@ -738,7 +659,7 @@
           
         
         <li>
-          <a href="https://www.researchgate.net/profile/Chandrika_B-Rao" target="_blank" rel="noopener">
+          <a href="https://www.researchgate.net/profile/Chandrika_B-Rao" target="_blank" rel="noopener" aria-label="researchgate">
             <i class="fab fa-researchgate big-icon"></i>
           </a>
         </li>
@@ -755,7 +676,7 @@
           
         
         <li>
-          <a href="https://www.linkedin.com/in/chandrika-b-rao-a5574b11/" target="_blank" rel="noopener">
+          <a href="https://www.linkedin.com/in/chandrika-b-rao-a5574b11/" target="_blank" rel="noopener" aria-label="linkedin">
             <i class="fab fa-linkedin big-icon"></i>
           </a>
         </li>
@@ -770,23 +691,8 @@
           
         
         <li>
-          <a href="https://orcid.org/0000-0003-3848-7945" target="_blank" rel="noopener">
+          <a href="https://orcid.org/0000-0003-3848-7945" target="_blank" rel="noopener" aria-label="orcid">
             <i class="ai ai-orcid big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="/files/cv.pdf" >
-            <i class="ai ai-cv big-icon"></i>
           </a>
         </li>
         
@@ -799,7 +705,8 @@
     
     
 
-    <p>I have over 30 years' experience in solving research problems in lifesciences and medicine using statistical, mathematical and computational methods. I possess a good grasp of application areas like immunology, evolutionary systematics, population genetics, genomics, pharmacology, medicinal chemistry, drug discovery and drug development. Apart from providing scientific directions to projects, my management skills include setting up suitable computational laboratories for given research needs, and recruitment, management and assessment of Bioinformatics and drug discovery scientists. I have experience of teaching Biostatistics courses for biology students and senior scientists, as well as guiding student dissertations. I have experience in management and assessment of drug discovery projects from initiation to development, with go-no go decision making at different stages. I will be happy to provide scientific advisory and management services, as also continuing education of scientists in specialised areas like biostatistics, bioinformatics etc.</p>
+    <br>
+I have over 30 years' experience in solving research problems in lifesciences and medicine using statistical, mathematical and computational methods. I possess a good grasp of application areas like immunology, evolutionary systematics, population genetics, genomics, pharmacology, medicinal chemistry, drug discovery and drug development. Apart from providing scientific directions to projects, my management skills include setting up suitable computational laboratories for given research needs, and recruitment, management and assessment of Bioinformatics and drug discovery scientists. I have experience of teaching Biostatistics courses for biology students and senior scientists, as well as guiding student dissertations. I have experience in management and assessment of drug discovery projects from initiation to development, with go-no go decision making at different stages. I will be happy to provide scientific advisory and management services, as also continuing education of scientists in specialised areas like biostatistics, bioinformatics etc. 
 
 
     <div class="row">
@@ -809,11 +716,19 @@
         <h3>Interests</h3>
         <ul class="ul-interests">
           
-          <li>Drug Discovery</li>
+          <li>Drug Discovery Research</li>
+          
+          <li>Computational Toxicology</li>
+          
+          <li>Molecular Modelling</li>
+          
+          <li>Cheminformatics</li>
           
           <li>Bioinformatics</li>
           
-          <li>Statistics</li>
+          <li>Data Analysis</li>
+          
+          <li>Biostatistics</li>
           
         </ul>
       </div>
@@ -870,11 +785,15 @@
         </li>
         
         <li>
-          <a href="/publication/discriminating-between-active-and-inactive-compounds-using-binding-energy-calculations/">Discriminating Between Active and Inactive Compounds Using Binding Energy Calculations</a>
+          <a href="/talk/assessing-genotoxicity-using-qsar/">Assessing genotoxicity using QSAR</a>
         </li>
         
         <li>
-          <a href="/publication/insulin-like-growth-factor-1-receptor-inhibitors/">Insulin-like Growth Factor-1 Receptor Inhibitors</a>
+          <a href="/talk/ich-m7-and-its-implemenation/">ICH M7 and its implemenation</a>
+        </li>
+        
+        <li>
+          <a href="/publication/discriminating-between-active-and-inactive-compounds-using-binding-energy-calculations-a-case-study/">Discriminating between active and inactive compounds using binding energy calculations – a case study</a>
         </li>
         
         <li>
@@ -882,15 +801,247 @@
         </li>
         
         <li>
-          <a href="/publication/synthesis-of-n-6-4-piperazin-1-yl-phenoxy-pyridin-3-yl-benzenesulfonamide-derivatives-for-the-treatment-of-metabolic-syndrome/">Synthesis of N-(6-(4-(Piperazin-1-yl)phenoxy)pyridin-3-yl)benzenesulfonamide Derivatives for the Treatment of Metabolic Syndrome</a>
+          <a href="/talk/evaluating-mutagenic-potential-of-chemicals-using-qsar-models/">Evaluating mutagenic potential of chemicals using QSAR models</a>
         </li>
         
         <li>
-          <a href="/publication/design-and-synthesis-of-non-tzd-peroxisome-proliferator-activated-receptor-gamma-ppar-gamma-modulator/">Design and synthesis of non-TZD peroxisome proliferator-activated receptor γ (PPARγ) modulator</a>
+          <a href="/talk/ichm7-guidance-and-in-silico-assessment-of-genotoxicity/">ICHM7 guidance and in silico assessment of genotoxicity</a>
         </li>
         
         <li>
-          <a href="/publication/lead-optimization-of-isocytosine-derived-xanthine-oxidase-inhibitors/">Lead Optimization of Isocytosine Derived Xanthine Oxidase Inhibitors</a>
+          <a href="/talk/bioinformatics-in-pharma-r-d/">Bioinformatics in pharma R &amp; D</a>
+        </li>
+        
+        <li>
+          <a href="/talk/discovery-of-xanthine-oxidase-inhibitors-by-integrated-computational-medicinal-and-synthetic-chemistry-methods/">Discovery of xanthine oxidase inhibitors by integrated computational, medicinal and synthetic chemistry methods</a>
+        </li>
+        
+        <li>
+          <a href="/publication/synthesis-of-n-6-4-piperazin-1-ylphenoxypyridin-3-ylbenzenesulfonamide-derivatives-for-the-treatment-of-metabolic-syndrome/">Synthesis of N-(6-(4-(Piperazin-1-yl)phenoxy)pyridin-3-yl)benzenesulfonamide Derivatives for the Treatment of Metabolic Syndrome</a>
+        </li>
+        
+        <li>
+          <a href="/talk/development-refinement-and-validation-of-2d-qsar-models-for-cyp-3a4-inhibition/">Development, refinement and validation of 2D QSAR models for CYP 3A4 inhibition</a>
+        </li>
+        
+        <li>
+          <a href="/publication/design-and-synthesis-of-non-tzd-peroxisome-proliferator-activated-receptor-%CE%B3-ppar%CE%B3-modulator/">Design and synthesis of non-TZD peroxisome proliferator-activated receptor γ (PPARγ) modulator</a>
+        </li>
+        
+        <li>
+          <a href="/publication/insulin-like-growth-factor-1-receptor-inhibitors/">Insulin-like Growth Factor-1 Receptor Inhibitors</a>
+        </li>
+        
+        <li>
+          <a href="/talk/computational-drug-design-a-case-study-on-xanthine-oxidase-inhibition/">Computational Drug Design: A Case Study on Xanthine Oxidase Inhibition</a>
+        </li>
+        
+        <li>
+          <a href="/talk/in-silico-evaluation-of-genotoxic-impurities/">In silico evaluation of genotoxic impurities</a>
+        </li>
+        
+        <li>
+          <a href="/publication/lead-optimization-of-isocytosine-derived-xanthine-oxidase-inhibitors/">Lead optimization of isocytosine-derived xanthine oxidase inhibitors</a>
+        </li>
+        
+        <li>
+          <a href="/publication/synthesis-of-n-5-chloro-6-quinolin-3-yloxypyridin-3-yl-benzenesulfonamide-derivatives-as-non-tzd-peroxisome-proliferator-activated-receptor-%CE%B3-ppar%CE%B3-agonist/">Synthesis of N-(5-chloro-6-(quinolin-3-yloxy)pyridin-3-yl)benzenesulfonamide derivatives as non-TZD peroxisome proliferator-activated receptor γ (PPARγ) agonist</a>
+        </li>
+        
+        <li>
+          <a href="/publication/isocytosine-based-inhibitors-of-xanthine-oxidase-design-synthesis-sar-pk-and-in-vivo-efficacy-in-rat-model-of-hyperuricemia/">Isocytosine-based inhibitors of xanthine oxidase: design, synthesis, SAR, PK and in vivo efficacy in rat model of hyperuricemia</a>
+        </li>
+        
+        <li>
+          <a href="/publication/identification-of-novel-isocytosine-derivatives-as-xanthine-oxidase-inhibitors-from-a-set-of-virtual-screening-hits/">Identification of novel isocytosine derivatives as xanthine oxidase inhibitors from a set of virtual screening hits</a>
+        </li>
+        
+        <li>
+          <a href="/talk/mathematics-in-drug-discovery-an-introduction/">Mathematics in Drug Discovery : An Introduction</a>
+        </li>
+        
+        <li>
+          <a href="/talk/role-of-in-silico-methods-in-drug-discovery/">Role of in silico Methods in Drug Discovery</a>
+        </li>
+        
+        <li>
+          <a href="/talk/variability-in-3d-structure-of-protein-a-case-study-with-hen-egg-white-lysozyme/">Variability in 3D Structure of Protein: A Case Study with Hen Egg White Lysozyme</a>
+        </li>
+        
+        <li>
+          <a href="/talk/application-of-virtual-screening-and-molecular-dynamics-simulations-to-drug-discovery-a-case-study/">Application of Virtual Screening and Molecular Dynamics Simulations to Drug Discovery: A case study</a>
+        </li>
+        
+        <li>
+          <a href="/talk/inverse-analysis-of-idiotypic-network-interactions/">Inverse analysis of idiotypic network interactions</a>
+        </li>
+        
+        <li>
+          <a href="/publication/a-method-for-detecting-predisposition-to-atopic-disorders-by-screening-for-human-signal-transducer-and-activator-of-transcription-6-stat-6-gene-variants/">A method for detecting predisposition to atopic disorders by screening for human signal transducer and Activator of Transcription-6 (STAT-6) gene variants</a>
+        </li>
+        
+        <li>
+          <a href="/publication/a-method-for-predicting-an-individuals-bronchodilatory-response-to-a-beta-agonist/">A method for predicting an individual’s bronchodilatory response to a beta agonist</a>
+        </li>
+        
+        <li>
+          <a href="/talk/cluster-analysis/">Cluster Analysis</a>
+        </li>
+        
+        <li>
+          <a href="/publication/a-fluorinated-analog-of-iso-1-blocks-the-recognition-and-biological-function-of-mif-and-is-orally-efficacious-in-a-murine-model-of-colitis/">A fluorinated analog of ISO-1 blocks the recognition and biological function of MIF and is orally efficacious in a murine model of colitis</a>
+        </li>
+        
+        <li>
+          <a href="/publication/managing-protein-flexibility-in-docking-and-its-applications/">Managing protein flexibility in docking and its applications</a>
+        </li>
+        
+        <li>
+          <a href="/talk/handling-protein-flexibility-in-structure-based-drug-design/">Handling protein flexibility in structure-based drug design</a>
+        </li>
+        
+        <li>
+          <a href="/talk/ligand-induced-protein-flexibility/">Ligand-induced protein flexibility</a>
+        </li>
+        
+        <li>
+          <a href="/publication/a-novel-computational-method-for-the-identification-of-candidate-proteins-useful-as-anti-infectives/">A novel computational method for the identification of candidate proteins useful as anti-infectives</a>
+        </li>
+        
+        <li>
+          <a href="/publication/modeling-and-selection-of-flexible-proteins-for-structurebased-drug-design-backbone-and-side-chain-movements-in-p38-mapk/">Modeling and Selection of Flexible Proteins for Structure‐Based Drug Design: Backbone and Side Chain Movements in p38 MAPK</a>
+        </li>
+        
+        <li>
+          <a href="/talk/practical-multivariate-statistical-analysis/">Practical Multivariate Statistical Analysis</a>
+        </li>
+        
+        <li>
+          <a href="/talk/predicting-ligand-induced-conformational-changes-in-proteins-for-structure-based-drug-design/">Predicting Ligand-Induced Conformational Changes in Proteins for Structure-Based Drug Design</a>
+        </li>
+        
+        <li>
+          <a href="/talk/predicting-ligand-induced-conformational-changes-in-proteins/">Predicting ligand-induced conformational changes in proteins</a>
+        </li>
+        
+        <li>
+          <a href="/talk/a-statistical-measure-of-drug-likeness/">A Statistical Measure of Drug-Likeness</a>
+        </li>
+        
+        <li>
+          <a href="/publication/a-novel-computational-analysis-of-ligand-induced-conformational-changes-in-the-atp-binding-sites-of-cyclin-dependent-kinases/">A Novel Computational Analysis of Ligand-Induced Conformational Changes in the ATP Binding Sites of Cyclin Dependent Kinases</a>
+        </li>
+        
+        <li>
+          <a href="/publication/mlc1-gene-is-associated-with-schizophrenia-and-bipolar-disorder-in-southern-india/">MLC1 Gene Is Associated with Schizophrenia and Bipolar Disorder in Southern India</a>
+        </li>
+        
+        <li>
+          <a href="/publication/beta2-adrenergic-receptor-polymorphisms-and-response-to-salbutamol-among-indian-asthmatics/">β2-adrenergic receptor polymorphisms and response to salbutamol among Indian asthmatics</a>
+        </li>
+        
+        <li>
+          <a href="/publication/tgf%CE%B21-haplotypes-and-asthma-in-indian-populations/">TGFβ1 haplotypes and asthma in Indian populations</a>
+        </li>
+        
+        <li>
+          <a href="/publication/a_16_c-haplotype-in-the-fc%CE%B5ri%CE%B2-gene-confers-a-higher-risk-for-atopic-asthma-in-the-indian-population/">A_16_C haplotype in the FcεRIβ gene confers a higher risk for atopic asthma in the Indian population</a>
+        </li>
+        
+        <li>
+          <a href="/publication/signal-transducer-and-activator-of-transcription-6-haplotypes-and-asthma-in-the-indian-population/">Signal Transducer and Activator of Transcription 6 Haplotypes and Asthma in the Indian Population</a>
+        </li>
+        
+        <li>
+          <a href="/publication/bhattacharyyas-distance-measure-as-a-precursor-of-genetic-distance-measures/">Bhattacharyya&#39;s distance measure as a precursor of genetic distance measures</a>
+        </li>
+        
+        <li>
+          <a href="/talk/biochemical-network-analysis/">Biochemical network analysis</a>
+        </li>
+        
+        <li>
+          <a href="/publication/tg-can-repeats-in-human-housekeeping-genes/">(TG/CA)n Repeats in Human Housekeeping Genes</a>
+        </li>
+        
+        <li>
+          <a href="/publication/nonrandom-distribution-of-alu-elements-in-genes-of-various-functional-categories-insight-from-analysis-of-human-chromosomes-21-and-22/">Nonrandom Distribution of Alu Elements in Genes of Various Functional Categories: Insight from Analysis of Human Chromosomes 21 and 22</a>
+        </li>
+        
+        <li>
+          <a href="/talk/inverse-analysis-of-biological-networks/">Inverse analysis of biological networks</a>
+        </li>
+        
+        <li>
+          <a href="/publication/a-novel-complexity-measure-for-comparative-analysis-of-protein-sequences-from-complete-genomes/">A Novel Complexity Measure for Comparative Analysis of Protein Sequences from Complete Genomes</a>
+        </li>
+        
+        <li>
+          <a href="/talk/case-control-design-for-genetic-studies/">Case-control design for genetic studies</a>
+        </li>
+        
+        <li>
+          <a href="/publication/association-of-ifng-gene-polymorphism-with-asthma-in-the-indian-population/">Association of IFNG gene polymorphism with asthma in the Indian population</a>
+        </li>
+        
+        <li>
+          <a href="/publication/comparative-genomics-using-data-mining-tools/">Comparative genomics using data mining tools</a>
+        </li>
+        
+        <li>
+          <a href="/publication/study-of-the-single-nucleotide-polymorphism-snp-at-the-palindromic-sequence-of-hypersensitive-site-hs4-of-the-human-beta-globin-locus-control-region-lcr-in-indian-population/">Study of the single nucleotide polymorphism (SNP) at the palindromic sequence of hypersensitive site (HS)4 of the human beta-globin locus control region (LCR) in Indian population</a>
+        </li>
+        
+        <li>
+          <a href="/publication/sample-size-considerations-in-genetic-polymorphism-studies/">Sample Size Considerations in Genetic Polymorphism Studies</a>
+        </li>
+        
+        <li>
+          <a href="/talk/sample-size-considerations-in-genetic-polymorphism-studies/">Sample size considerations in genetic polymorphism studies</a>
+        </li>
+        
+        <li>
+          <a href="/publication/association-analysis-of-cag-repeats-at-the-kcnn3-locus-in-indian-patients-with-bipolar-disorder-and-schizophrenia/">Association analysis of CAG repeats at the KCNN3 locus in Indian patients with bipolar disorder and schizophrenia</a>
+        </li>
+        
+        <li>
+          <a href="/talk/sample-size-for-genetic-polymorphism-studies/">Sample size for genetic polymorphism studies</a>
+        </li>
+        
+        <li>
+          <a href="/talk/phylogenetic-analysis/">Phylogenetic analysis</a>
+        </li>
+        
+        <li>
+          <a href="/publication/reconstruction-of-phylogenetic-relationships/">Reconstruction of phylogenetic relationships</a>
+        </li>
+        
+        <li>
+          <a href="/publication/multivariate-map-representation-of-phylogenetic-relationships-application-to-tilapiine-fish/">Multivariate map representation of phylogenetic relationships: application to tilapiine fish</a>
+        </li>
+        
+        <li>
+          <a href="/publication/inverse-analysis-of-empirical-matrices-of-idiotypic-network-interactions/">Inverse analysis of empirical matrices of idiotypic network interactions</a>
+        </li>
+        
+        <li>
+          <a href="/talk/map-like-representation-of-dna-fingerprinting-data/">Map-like representation of DNA fingerprinting data</a>
+        </li>
+        
+        <li>
+          <a href="/talk/b-cell-repertoire-size-in-a-self-assertive-immune-system/">B Cell repertoire size in a self-assertive immune system</a>
+        </li>
+        
+        <li>
+          <a href="/publication/stochastic-inventory-analysis-of-antibody-production/">Stochastic inventory analysis of antibody production</a>
+        </li>
+        
+        <li>
+          <a href="/publication/on-antigen-antibody-binding-distributions/">On antigen-antibody binding distributions</a>
+        </li>
+        
+        <li>
+          <a href="/talk/stochastic-aspects-of-immune-system-antigen-antibody-binding-distributions/">Stochastic aspects of immune system: Antigen-antibody binding distributions</a>
         </li>
         
       </ul>
@@ -1067,7 +1218,7 @@
     
     
     
-    <script src="/js/wowchemy.min.d9d80f811e95b4b4f6df1eaaf297b05f.js"></script>
+    <script src="/js/wowchemy.min.e70d9bcb02570fbace6fd086701a8d67.js"></script>
 
     
 

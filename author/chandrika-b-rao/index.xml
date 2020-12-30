@@ -21,50 +21,522 @@
     </item>
     
     <item>
-      <title>Discriminating Between Active and Inactive Compounds Using Binding Energy Calculations</title>
-      <link>https://chandrikabrao.github.io/publication/discriminating-between-active-and-inactive-compounds-using-binding-energy-calculations/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://chandrikabrao.github.io/publication/discriminating-between-active-and-inactive-compounds-using-binding-energy-calculations/</guid>
+      <title>Assessing genotoxicity using QSAR</title>
+      <link>https://chandrikabrao.github.io/talk/assessing-genotoxicity-using-qsar/</link>
+      <pubDate>Thu, 10 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/assessing-genotoxicity-using-qsar/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Insulin-like Growth Factor-1 Receptor Inhibitors</title>
-      <link>https://chandrikabrao.github.io/publication/insulin-like-growth-factor-1-receptor-inhibitors/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://chandrikabrao.github.io/publication/insulin-like-growth-factor-1-receptor-inhibitors/</guid>
+      <title>ICH M7 and its implemenation</title>
+      <link>https://chandrikabrao.github.io/talk/ich-m7-and-its-implemenation/</link>
+      <pubDate>Thu, 10 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/ich-m7-and-its-implemenation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminating between active and inactive compounds using binding energy calculations – a case study</title>
+      <link>https://chandrikabrao.github.io/publication/discriminating-between-active-and-inactive-compounds-using-binding-energy-calculations-a-case-study/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/discriminating-between-active-and-inactive-compounds-using-binding-energy-calculations-a-case-study/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cyclopentyl-pyrimidine based analogues as novel and potent IGF-1R inhibitor</title>
       <link>https://chandrikabrao.github.io/publication/cyclopentyl-pyrimidine-based-analogues-as-novel-and-potent-igf-1r-inhibitor/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 06 Mar 2015 00:00:00 +0000</pubDate>
       <guid>https://chandrikabrao.github.io/publication/cyclopentyl-pyrimidine-based-analogues-as-novel-and-potent-igf-1r-inhibitor/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Evaluating mutagenic potential of chemicals using QSAR models</title>
+      <link>https://chandrikabrao.github.io/talk/evaluating-mutagenic-potential-of-chemicals-using-qsar-models/</link>
+      <pubDate>Thu, 27 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/evaluating-mutagenic-potential-of-chemicals-using-qsar-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICHM7 guidance and in silico assessment of genotoxicity</title>
+      <link>https://chandrikabrao.github.io/talk/ichm7-guidance-and-in-silico-assessment-of-genotoxicity/</link>
+      <pubDate>Thu, 27 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/ichm7-guidance-and-in-silico-assessment-of-genotoxicity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioinformatics in pharma R &amp; D</title>
+      <link>https://chandrikabrao.github.io/talk/bioinformatics-in-pharma-r-d/</link>
+      <pubDate>Thu, 30 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/bioinformatics-in-pharma-r-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery of xanthine oxidase inhibitors by integrated computational, medicinal and synthetic chemistry methods</title>
+      <link>https://chandrikabrao.github.io/talk/discovery-of-xanthine-oxidase-inhibitors-by-integrated-computational-medicinal-and-synthetic-chemistry-methods/</link>
+      <pubDate>Fri, 10 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/discovery-of-xanthine-oxidase-inhibitors-by-integrated-computational-medicinal-and-synthetic-chemistry-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Synthesis of N-(6-(4-(Piperazin-1-yl)phenoxy)pyridin-3-yl)benzenesulfonamide Derivatives for the Treatment of Metabolic Syndrome</title>
-      <link>https://chandrikabrao.github.io/publication/synthesis-of-n-6-4-piperazin-1-yl-phenoxy-pyridin-3-yl-benzenesulfonamide-derivatives-for-the-treatment-of-metabolic-syndrome/</link>
-      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://chandrikabrao.github.io/publication/synthesis-of-n-6-4-piperazin-1-yl-phenoxy-pyridin-3-yl-benzenesulfonamide-derivatives-for-the-treatment-of-metabolic-syndrome/</guid>
+      <link>https://chandrikabrao.github.io/publication/synthesis-of-n-6-4-piperazin-1-ylphenoxypyridin-3-ylbenzenesulfonamide-derivatives-for-the-treatment-of-metabolic-syndrome/</link>
+      <pubDate>Sun, 22 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/synthesis-of-n-6-4-piperazin-1-ylphenoxypyridin-3-ylbenzenesulfonamide-derivatives-for-the-treatment-of-metabolic-syndrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development, refinement and validation of 2D QSAR models for CYP 3A4 inhibition</title>
+      <link>https://chandrikabrao.github.io/talk/development-refinement-and-validation-of-2d-qsar-models-for-cyp-3a4-inhibition/</link>
+      <pubDate>Tue, 12 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/development-refinement-and-validation-of-2d-qsar-models-for-cyp-3a4-inhibition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design and synthesis of non-TZD peroxisome proliferator-activated receptor γ (PPARγ) modulator</title>
-      <link>https://chandrikabrao.github.io/publication/design-and-synthesis-of-non-tzd-peroxisome-proliferator-activated-receptor-gamma-ppar-gamma-modulator/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://chandrikabrao.github.io/publication/design-and-synthesis-of-non-tzd-peroxisome-proliferator-activated-receptor-gamma-ppar-gamma-modulator/</guid>
+      <link>https://chandrikabrao.github.io/publication/design-and-synthesis-of-non-tzd-peroxisome-proliferator-activated-receptor-%CE%B3-ppar%CE%B3-modulator/</link>
+      <pubDate>Thu, 10 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/design-and-synthesis-of-non-tzd-peroxisome-proliferator-activated-receptor-%CE%B3-ppar%CE%B3-modulator/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Lead Optimization of Isocytosine Derived Xanthine Oxidase Inhibitors</title>
+      <title>Insulin-like Growth Factor-1 Receptor Inhibitors</title>
+      <link>https://chandrikabrao.github.io/publication/insulin-like-growth-factor-1-receptor-inhibitors/</link>
+      <pubDate>Thu, 03 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/insulin-like-growth-factor-1-receptor-inhibitors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Drug Design: A Case Study on Xanthine Oxidase Inhibition</title>
+      <link>https://chandrikabrao.github.io/talk/computational-drug-design-a-case-study-on-xanthine-oxidase-inhibition/</link>
+      <pubDate>Mon, 16 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/computational-drug-design-a-case-study-on-xanthine-oxidase-inhibition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In silico evaluation of genotoxic impurities</title>
+      <link>https://chandrikabrao.github.io/talk/in-silico-evaluation-of-genotoxic-impurities/</link>
+      <pubDate>Mon, 04 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/in-silico-evaluation-of-genotoxic-impurities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lead optimization of isocytosine-derived xanthine oxidase inhibitors</title>
       <link>https://chandrikabrao.github.io/publication/lead-optimization-of-isocytosine-derived-xanthine-oxidase-inhibitors/</link>
-      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
       <guid>https://chandrikabrao.github.io/publication/lead-optimization-of-isocytosine-derived-xanthine-oxidase-inhibitors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of N-(5-chloro-6-(quinolin-3-yloxy)pyridin-3-yl)benzenesulfonamide derivatives as non-TZD peroxisome proliferator-activated receptor γ (PPARγ) agonist</title>
+      <link>https://chandrikabrao.github.io/publication/synthesis-of-n-5-chloro-6-quinolin-3-yloxypyridin-3-yl-benzenesulfonamide-derivatives-as-non-tzd-peroxisome-proliferator-activated-receptor-%CE%B3-ppar%CE%B3-agonist/</link>
+      <pubDate>Thu, 25 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/synthesis-of-n-5-chloro-6-quinolin-3-yloxypyridin-3-yl-benzenesulfonamide-derivatives-as-non-tzd-peroxisome-proliferator-activated-receptor-%CE%B3-ppar%CE%B3-agonist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isocytosine-based inhibitors of xanthine oxidase: design, synthesis, SAR, PK and in vivo efficacy in rat model of hyperuricemia</title>
+      <link>https://chandrikabrao.github.io/publication/isocytosine-based-inhibitors-of-xanthine-oxidase-design-synthesis-sar-pk-and-in-vivo-efficacy-in-rat-model-of-hyperuricemia/</link>
+      <pubDate>Sat, 13 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/isocytosine-based-inhibitors-of-xanthine-oxidase-design-synthesis-sar-pk-and-in-vivo-efficacy-in-rat-model-of-hyperuricemia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of novel isocytosine derivatives as xanthine oxidase inhibitors from a set of virtual screening hits</title>
+      <link>https://chandrikabrao.github.io/publication/identification-of-novel-isocytosine-derivatives-as-xanthine-oxidase-inhibitors-from-a-set-of-virtual-screening-hits/</link>
+      <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/identification-of-novel-isocytosine-derivatives-as-xanthine-oxidase-inhibitors-from-a-set-of-virtual-screening-hits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematics in Drug Discovery : An Introduction</title>
+      <link>https://chandrikabrao.github.io/talk/mathematics-in-drug-discovery-an-introduction/</link>
+      <pubDate>Mon, 23 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/mathematics-in-drug-discovery-an-introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of in silico Methods in Drug Discovery</title>
+      <link>https://chandrikabrao.github.io/talk/role-of-in-silico-methods-in-drug-discovery/</link>
+      <pubDate>Fri, 04 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/role-of-in-silico-methods-in-drug-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variability in 3D Structure of Protein: A Case Study with Hen Egg White Lysozyme</title>
+      <link>https://chandrikabrao.github.io/talk/variability-in-3d-structure-of-protein-a-case-study-with-hen-egg-white-lysozyme/</link>
+      <pubDate>Mon, 04 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/variability-in-3d-structure-of-protein-a-case-study-with-hen-egg-white-lysozyme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of Virtual Screening and Molecular Dynamics Simulations to Drug Discovery: A case study</title>
+      <link>https://chandrikabrao.github.io/talk/application-of-virtual-screening-and-molecular-dynamics-simulations-to-drug-discovery-a-case-study/</link>
+      <pubDate>Tue, 14 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/application-of-virtual-screening-and-molecular-dynamics-simulations-to-drug-discovery-a-case-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inverse analysis of idiotypic network interactions</title>
+      <link>https://chandrikabrao.github.io/talk/inverse-analysis-of-idiotypic-network-interactions/</link>
+      <pubDate>Wed, 15 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/inverse-analysis-of-idiotypic-network-interactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A method for detecting predisposition to atopic disorders by screening for human signal transducer and Activator of Transcription-6 (STAT-6) gene variants</title>
+      <link>https://chandrikabrao.github.io/publication/a-method-for-detecting-predisposition-to-atopic-disorders-by-screening-for-human-signal-transducer-and-activator-of-transcription-6-stat-6-gene-variants/</link>
+      <pubDate>Tue, 02 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/a-method-for-detecting-predisposition-to-atopic-disorders-by-screening-for-human-signal-transducer-and-activator-of-transcription-6-stat-6-gene-variants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A method for predicting an individual’s bronchodilatory response to a beta agonist</title>
+      <link>https://chandrikabrao.github.io/publication/a-method-for-predicting-an-individuals-bronchodilatory-response-to-a-beta-agonist/</link>
+      <pubDate>Fri, 23 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/a-method-for-predicting-an-individuals-bronchodilatory-response-to-a-beta-agonist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cluster Analysis</title>
+      <link>https://chandrikabrao.github.io/talk/cluster-analysis/</link>
+      <pubDate>Tue, 06 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/cluster-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A fluorinated analog of ISO-1 blocks the recognition and biological function of MIF and is orally efficacious in a murine model of colitis</title>
+      <link>https://chandrikabrao.github.io/publication/a-fluorinated-analog-of-iso-1-blocks-the-recognition-and-biological-function-of-mif-and-is-orally-efficacious-in-a-murine-model-of-colitis/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/a-fluorinated-analog-of-iso-1-blocks-the-recognition-and-biological-function-of-mif-and-is-orally-efficacious-in-a-murine-model-of-colitis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing protein flexibility in docking and its applications</title>
+      <link>https://chandrikabrao.github.io/publication/managing-protein-flexibility-in-docking-and-its-applications/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/managing-protein-flexibility-in-docking-and-its-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handling protein flexibility in structure-based drug design</title>
+      <link>https://chandrikabrao.github.io/talk/handling-protein-flexibility-in-structure-based-drug-design/</link>
+      <pubDate>Wed, 21 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/handling-protein-flexibility-in-structure-based-drug-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ligand-induced protein flexibility</title>
+      <link>https://chandrikabrao.github.io/talk/ligand-induced-protein-flexibility/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/ligand-induced-protein-flexibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel computational method for the identification of candidate proteins useful as anti-infectives</title>
+      <link>https://chandrikabrao.github.io/publication/a-novel-computational-method-for-the-identification-of-candidate-proteins-useful-as-anti-infectives/</link>
+      <pubDate>Tue, 22 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/a-novel-computational-method-for-the-identification-of-candidate-proteins-useful-as-anti-infectives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and Selection of Flexible Proteins for Structure‐Based Drug Design: Backbone and Side Chain Movements in p38 MAPK</title>
+      <link>https://chandrikabrao.github.io/publication/modeling-and-selection-of-flexible-proteins-for-structurebased-drug-design-backbone-and-side-chain-movements-in-p38-mapk/</link>
+      <pubDate>Fri, 08 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/modeling-and-selection-of-flexible-proteins-for-structurebased-drug-design-backbone-and-side-chain-movements-in-p38-mapk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Multivariate Statistical Analysis</title>
+      <link>https://chandrikabrao.github.io/talk/practical-multivariate-statistical-analysis/</link>
+      <pubDate>Mon, 14 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/practical-multivariate-statistical-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Ligand-Induced Conformational Changes in Proteins for Structure-Based Drug Design</title>
+      <link>https://chandrikabrao.github.io/talk/predicting-ligand-induced-conformational-changes-in-proteins-for-structure-based-drug-design/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/predicting-ligand-induced-conformational-changes-in-proteins-for-structure-based-drug-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting ligand-induced conformational changes in proteins</title>
+      <link>https://chandrikabrao.github.io/talk/predicting-ligand-induced-conformational-changes-in-proteins/</link>
+      <pubDate>Fri, 09 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/predicting-ligand-induced-conformational-changes-in-proteins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Statistical Measure of Drug-Likeness</title>
+      <link>https://chandrikabrao.github.io/talk/a-statistical-measure-of-drug-likeness/</link>
+      <pubDate>Sun, 21 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/a-statistical-measure-of-drug-likeness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Computational Analysis of Ligand-Induced Conformational Changes in the ATP Binding Sites of Cyclin Dependent Kinases</title>
+      <link>https://chandrikabrao.github.io/publication/a-novel-computational-analysis-of-ligand-induced-conformational-changes-in-the-atp-binding-sites-of-cyclin-dependent-kinases/</link>
+      <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/a-novel-computational-analysis-of-ligand-induced-conformational-changes-in-the-atp-binding-sites-of-cyclin-dependent-kinases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MLC1 Gene Is Associated with Schizophrenia and Bipolar Disorder in Southern India</title>
+      <link>https://chandrikabrao.github.io/publication/mlc1-gene-is-associated-with-schizophrenia-and-bipolar-disorder-in-southern-india/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/mlc1-gene-is-associated-with-schizophrenia-and-bipolar-disorder-in-southern-india/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>β2-adrenergic receptor polymorphisms and response to salbutamol among Indian asthmatics</title>
+      <link>https://chandrikabrao.github.io/publication/beta2-adrenergic-receptor-polymorphisms-and-response-to-salbutamol-among-indian-asthmatics/</link>
+      <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/beta2-adrenergic-receptor-polymorphisms-and-response-to-salbutamol-among-indian-asthmatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TGFβ1 haplotypes and asthma in Indian populations</title>
+      <link>https://chandrikabrao.github.io/publication/tgf%CE%B21-haplotypes-and-asthma-in-indian-populations/</link>
+      <pubDate>Tue, 01 Mar 2005 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/tgf%CE%B21-haplotypes-and-asthma-in-indian-populations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A_16_C haplotype in the FcεRIβ gene confers a higher risk for atopic asthma in the Indian population</title>
+      <link>https://chandrikabrao.github.io/publication/a_16_c-haplotype-in-the-fc%CE%B5ri%CE%B2-gene-confers-a-higher-risk-for-atopic-asthma-in-the-indian-population/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/a_16_c-haplotype-in-the-fc%CE%B5ri%CE%B2-gene-confers-a-higher-risk-for-atopic-asthma-in-the-indian-population/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signal Transducer and Activator of Transcription 6 Haplotypes and Asthma in the Indian Population</title>
+      <link>https://chandrikabrao.github.io/publication/signal-transducer-and-activator-of-transcription-6-haplotypes-and-asthma-in-the-indian-population/</link>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/signal-transducer-and-activator-of-transcription-6-haplotypes-and-asthma-in-the-indian-population/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bhattacharyya&#39;s distance measure as a precursor of genetic distance measures</title>
+      <link>https://chandrikabrao.github.io/publication/bhattacharyyas-distance-measure-as-a-precursor-of-genetic-distance-measures/</link>
+      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/bhattacharyyas-distance-measure-as-a-precursor-of-genetic-distance-measures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biochemical network analysis</title>
+      <link>https://chandrikabrao.github.io/talk/biochemical-network-analysis/</link>
+      <pubDate>Sat, 18 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/biochemical-network-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(TG/CA)n Repeats in Human Housekeeping Genes</title>
+      <link>https://chandrikabrao.github.io/publication/tg-can-repeats-in-human-housekeeping-genes/</link>
+      <pubDate>Wed, 01 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/tg-can-repeats-in-human-housekeeping-genes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonrandom Distribution of Alu Elements in Genes of Various Functional Categories: Insight from Analysis of Human Chromosomes 21 and 22</title>
+      <link>https://chandrikabrao.github.io/publication/nonrandom-distribution-of-alu-elements-in-genes-of-various-functional-categories-insight-from-analysis-of-human-chromosomes-21-and-22/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/nonrandom-distribution-of-alu-elements-in-genes-of-various-functional-categories-insight-from-analysis-of-human-chromosomes-21-and-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inverse analysis of biological networks</title>
+      <link>https://chandrikabrao.github.io/talk/inverse-analysis-of-biological-networks/</link>
+      <pubDate>Wed, 09 Jul 2003 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/inverse-analysis-of-biological-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Complexity Measure for Comparative Analysis of Protein Sequences from Complete Genomes</title>
+      <link>https://chandrikabrao.github.io/publication/a-novel-complexity-measure-for-comparative-analysis-of-protein-sequences-from-complete-genomes/</link>
+      <pubDate>Tue, 01 Apr 2003 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/a-novel-complexity-measure-for-comparative-analysis-of-protein-sequences-from-complete-genomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case-control design for genetic studies</title>
+      <link>https://chandrikabrao.github.io/talk/case-control-design-for-genetic-studies/</link>
+      <pubDate>Mon, 17 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/case-control-design-for-genetic-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association of IFNG gene polymorphism with asthma in the Indian population</title>
+      <link>https://chandrikabrao.github.io/publication/association-of-ifng-gene-polymorphism-with-asthma-in-the-indian-population/</link>
+      <pubDate>Sun, 01 Sep 2002 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/association-of-ifng-gene-polymorphism-with-asthma-in-the-indian-population/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative genomics using data mining tools</title>
+      <link>https://chandrikabrao.github.io/publication/comparative-genomics-using-data-mining-tools/</link>
+      <pubDate>Fri, 01 Feb 2002 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/comparative-genomics-using-data-mining-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study of the single nucleotide polymorphism (SNP) at the palindromic sequence of hypersensitive site (HS)4 of the human beta-globin locus control region (LCR) in Indian population</title>
+      <link>https://chandrikabrao.github.io/publication/study-of-the-single-nucleotide-polymorphism-snp-at-the-palindromic-sequence-of-hypersensitive-site-hs4-of-the-human-beta-globin-locus-control-region-lcr-in-indian-population/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/study-of-the-single-nucleotide-polymorphism-snp-at-the-palindromic-sequence-of-hypersensitive-site-hs4-of-the-human-beta-globin-locus-control-region-lcr-in-indian-population/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample Size Considerations in Genetic Polymorphism Studies</title>
+      <link>https://chandrikabrao.github.io/publication/sample-size-considerations-in-genetic-polymorphism-studies/</link>
+      <pubDate>Thu, 01 Nov 2001 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/sample-size-considerations-in-genetic-polymorphism-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample size considerations in genetic polymorphism studies</title>
+      <link>https://chandrikabrao.github.io/talk/sample-size-considerations-in-genetic-polymorphism-studies/</link>
+      <pubDate>Sat, 30 Dec 2000 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/sample-size-considerations-in-genetic-polymorphism-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association analysis of CAG repeats at the KCNN3 locus in Indian patients with bipolar disorder and schizophrenia</title>
+      <link>https://chandrikabrao.github.io/publication/association-analysis-of-cag-repeats-at-the-kcnn3-locus-in-indian-patients-with-bipolar-disorder-and-schizophrenia/</link>
+      <pubDate>Mon, 04 Dec 2000 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/association-analysis-of-cag-repeats-at-the-kcnn3-locus-in-indian-patients-with-bipolar-disorder-and-schizophrenia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample size for genetic polymorphism studies</title>
+      <link>https://chandrikabrao.github.io/talk/sample-size-for-genetic-polymorphism-studies/</link>
+      <pubDate>Wed, 23 Feb 2000 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/sample-size-for-genetic-polymorphism-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogenetic analysis</title>
+      <link>https://chandrikabrao.github.io/talk/phylogenetic-analysis/</link>
+      <pubDate>Tue, 01 Feb 2000 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/phylogenetic-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction of phylogenetic relationships</title>
+      <link>https://chandrikabrao.github.io/publication/reconstruction-of-phylogenetic-relationships/</link>
+      <pubDate>Mon, 01 Mar 1999 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/reconstruction-of-phylogenetic-relationships/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate map representation of phylogenetic relationships: application to tilapiine fish</title>
+      <link>https://chandrikabrao.github.io/publication/multivariate-map-representation-of-phylogenetic-relationships-application-to-tilapiine-fish/</link>
+      <pubDate>Mon, 01 Jun 1998 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/multivariate-map-representation-of-phylogenetic-relationships-application-to-tilapiine-fish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inverse analysis of empirical matrices of idiotypic network interactions</title>
+      <link>https://chandrikabrao.github.io/publication/inverse-analysis-of-empirical-matrices-of-idiotypic-network-interactions/</link>
+      <pubDate>Fri, 01 Nov 1996 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/inverse-analysis-of-empirical-matrices-of-idiotypic-network-interactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Map-like representation of DNA fingerprinting data</title>
+      <link>https://chandrikabrao.github.io/talk/map-like-representation-of-dna-fingerprinting-data/</link>
+      <pubDate>Tue, 13 Dec 1994 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/map-like-representation-of-dna-fingerprinting-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B Cell repertoire size in a self-assertive immune system</title>
+      <link>https://chandrikabrao.github.io/talk/b-cell-repertoire-size-in-a-self-assertive-immune-system/</link>
+      <pubDate>Wed, 14 Apr 1993 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/b-cell-repertoire-size-in-a-self-assertive-immune-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic inventory analysis of antibody production</title>
+      <link>https://chandrikabrao.github.io/publication/stochastic-inventory-analysis-of-antibody-production/</link>
+      <pubDate>Sat, 01 Dec 1990 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/stochastic-inventory-analysis-of-antibody-production/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On antigen-antibody binding distributions</title>
+      <link>https://chandrikabrao.github.io/publication/on-antigen-antibody-binding-distributions/</link>
+      <pubDate>Thu, 07 Dec 1989 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/on-antigen-antibody-binding-distributions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic aspects of immune system: Antigen-antibody binding distributions</title>
+      <link>https://chandrikabrao.github.io/talk/stochastic-aspects-of-immune-system-antigen-antibody-binding-distributions/</link>
+      <pubDate>Tue, 10 Nov 1987 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/talk/stochastic-aspects-of-immune-system-antigen-antibody-binding-distributions/</guid>
       <description></description>
     </item>
     

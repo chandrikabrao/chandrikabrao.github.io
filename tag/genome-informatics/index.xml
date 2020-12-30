@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genome Informatics | Chandrika B-Rao</title>
+    <link>https://chandrikabrao.github.io/tag/genome-informatics/</link>
+      <atom:link href="https://chandrikabrao.github.io/tag/genome-informatics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genome Informatics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Chandrika B-Rao</copyright><lastBuildDate>Tue, 22 Apr 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chandrikabrao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Genome Informatics</title>
+      <link>https://chandrikabrao.github.io/tag/genome-informatics/</link>
+    </image>
+    
+    <item>
+      <title>A novel computational method for the identification of candidate proteins useful as anti-infectives</title>
+      <link>https://chandrikabrao.github.io/publication/a-novel-computational-method-for-the-identification-of-candidate-proteins-useful-as-anti-infectives/</link>
+      <pubDate>Tue, 22 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/a-novel-computational-method-for-the-identification-of-candidate-proteins-useful-as-anti-infectives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(TG/CA)n Repeats in Human Housekeeping Genes</title>
+      <link>https://chandrikabrao.github.io/publication/tg-can-repeats-in-human-housekeeping-genes/</link>
+      <pubDate>Wed, 01 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/tg-can-repeats-in-human-housekeeping-genes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonrandom Distribution of Alu Elements in Genes of Various Functional Categories: Insight from Analysis of Human Chromosomes 21 and 22</title>
+      <link>https://chandrikabrao.github.io/publication/nonrandom-distribution-of-alu-elements-in-genes-of-various-functional-categories-insight-from-analysis-of-human-chromosomes-21-and-22/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/nonrandom-distribution-of-alu-elements-in-genes-of-various-functional-categories-insight-from-analysis-of-human-chromosomes-21-and-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Complexity Measure for Comparative Analysis of Protein Sequences from Complete Genomes</title>
+      <link>https://chandrikabrao.github.io/publication/a-novel-complexity-measure-for-comparative-analysis-of-protein-sequences-from-complete-genomes/</link>
+      <pubDate>Tue, 01 Apr 2003 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/a-novel-complexity-measure-for-comparative-analysis-of-protein-sequences-from-complete-genomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative genomics using data mining tools</title>
+      <link>https://chandrikabrao.github.io/publication/comparative-genomics-using-data-mining-tools/</link>
+      <pubDate>Fri, 01 Feb 2002 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/comparative-genomics-using-data-mining-tools/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

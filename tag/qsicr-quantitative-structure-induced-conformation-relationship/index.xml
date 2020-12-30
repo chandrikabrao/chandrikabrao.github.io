@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QSiCR - Quantitative Structure induced-Conformation Relationship | Chandrika B-Rao</title>
+    <link>https://chandrikabrao.github.io/tag/qsicr-quantitative-structure-induced-conformation-relationship/</link>
+      <atom:link href="https://chandrikabrao.github.io/tag/qsicr-quantitative-structure-induced-conformation-relationship/index.xml" rel="self" type="application/rss+xml" />
+    <description>QSiCR - Quantitative Structure induced-Conformation Relationship</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Chandrika B-Rao</copyright><lastBuildDate>Fri, 08 Feb 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chandrikabrao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>QSiCR - Quantitative Structure induced-Conformation Relationship</title>
+      <link>https://chandrikabrao.github.io/tag/qsicr-quantitative-structure-induced-conformation-relationship/</link>
+    </image>
+    
+    <item>
+      <title>Modeling and Selection of Flexible Proteins for Structure‐Based Drug Design: Backbone and Side Chain Movements in p38 MAPK</title>
+      <link>https://chandrikabrao.github.io/publication/modeling-and-selection-of-flexible-proteins-for-structurebased-drug-design-backbone-and-side-chain-movements-in-p38-mapk/</link>
+      <pubDate>Fri, 08 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/modeling-and-selection-of-flexible-proteins-for-structurebased-drug-design-backbone-and-side-chain-movements-in-p38-mapk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Computational Analysis of Ligand-Induced Conformational Changes in the ATP Binding Sites of Cyclin Dependent Kinases</title>
+      <link>https://chandrikabrao.github.io/publication/a-novel-computational-analysis-of-ligand-induced-conformational-changes-in-the-atp-binding-sites-of-cyclin-dependent-kinases/</link>
+      <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
+      <guid>https://chandrikabrao.github.io/publication/a-novel-computational-analysis-of-ligand-induced-conformational-changes-in-the-atp-binding-sites-of-cyclin-dependent-kinases/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
